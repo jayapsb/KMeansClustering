@@ -1,0 +1,84 @@
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.xml
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Resources.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbproj.GenerateResource.Cache
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.xml
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataUser.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataMenu.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAntarMuka.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormLogin.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAbout.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormUpdateDataPenjualan.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormHitungMix.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbprojResolveAssemblyReference.cache
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormProsesCluster.resources
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormReportCluster.resources
+H:\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.xml
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbprojResolveAssemblyReference.cache
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAbout.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAntarMuka.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataMenu.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataUser.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormHitungMix.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormLogin.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormProsesCluster.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormReportCluster.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormUpdateDataPenjualan.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Resources.resources
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbproj.GenerateResource.Cache
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.cache
+H:\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.compiled
+H:\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+H:\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+H:\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.xml
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.cache
+D:\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.compiled
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.xml
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.xml
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbprojResolveAssemblyReference.cache
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAbout.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAntarMuka.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataMenu.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataUser.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormHitungMix.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormLogin.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormProsesCluster.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormReportCluster.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormUpdateDataPenjualan.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Resources.resources
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbproj.GenerateResource.Cache
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.cache
+D:\bahan skripsi\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.compiled
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.xml
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.xml
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbprojResolveAssemblyReference.cache
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAbout.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormAntarMuka.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataMenu.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormDataUser.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormHitungMix.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormLogin.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormProsesCluster.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormReportCluster.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.FormUpdateDataPenjualan.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Resources.resources
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.vbproj.GenerateResource.Cache
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.cache
+D:\unduhan\SKRIPSI\SKRIPSI\program\KMeansClustering\KMeansClustering\obj\Debug\RdlCompile.compiled
